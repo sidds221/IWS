@@ -1,0 +1,14 @@
+body{
+background-color: lime;
+}
+
+h1{
+color: black;
+font: bold 120px comicsans;
+}
+
+p{
+background-color: Lemon;
+color: indigo;
+border: 5px;
+}
